@@ -40,10 +40,10 @@ This analysis was conducted to uncover the **root causes of the decline** and re
 ## 🗂️ **Dashboard Pages Overview**
 
 ### 🏠 Home  
-<img src="Screenshots/Home Page.png" width="850"/>
+![Home Dashboard](https://github.com/NiteshPatilnp/QuickBite-Express-Crisis-Recovery-Analysis/blob/main/QuickBite/Home.png)
 
-### 📊 KPI Overview & Trend Analysis  
-<img src="Screenshots/Overview & KPI Trends.png" width="850"/>
+### 📊 Performance Overview  
+![Performance Overview](https://github.com/NiteshPatilnp/QuickBite-Express-Crisis-Recovery-Analysis/blob/main/QuickBite/Performance%20Overview.png)
 
 ### 🏙 City-Level Performance  
 <img src="Screenshots/City Level Analysis.png" width="850"/>
