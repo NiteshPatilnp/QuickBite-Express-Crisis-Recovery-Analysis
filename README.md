@@ -45,20 +45,17 @@ This analysis was conducted to uncover the **root causes of the decline** and re
 ### 📊 Performance Overview  
 ![Performance Overview](https://github.com/NiteshPatilnp/QuickBite-Express-Crisis-Recovery-Analysis/blob/main/QuickBite/Performance%20Overview.png)
 
-### 🏙 City-Level Performance  
-<img src="Screenshots/City Level Analysis.png" width="850"/>
+### 🏙 Customer View  
+![Customer View](https://github.com/NiteshPatilnp/QuickBite-Express-Crisis-Recovery-Analysis/blob/main/QuickBite/Customer%20View.png)
 
-### 🍽 Restaurant-Level Insights  
-<img src="Screenshots/Restaurant Level Analysis.png" width="850"/>
+### 🍽 Restaurant View  
+![Restaurant View](https://github.com/NiteshPatilnp/QuickBite-Express-Crisis-Recovery-Analysis/blob/main/QuickBite/Restaurant%20View.png)
 
 ### 🚚 Delivery Efficiency & SLA Analysis  
-<img src="Screenshots/Delivery Efficiency & SLA Compliance.png" width="850"/>
+![Delivery View](https://github.com/NiteshPatilnp/QuickBite-Express-Crisis-Recovery-Analysis/blob/main/QuickBite/Delivery%20View.png)
 
-### ⭐ Customer Ratings & Sentiment  
-<img src="Screenshots/Customer Rating & Sentiment Analysis.png" width="850"/>
-
-### 🔁 Customer Behavior & Loyalty  
-<img src="Screenshots/Customer Behaviour & Loyalty Analysis.png" width="850"/>
+### 🔁 Rating & Sentiment Analysis  
+![Rating & Sentiment](https://github.com/NiteshPatilnp/QuickBite-Express-Crisis-Recovery-Analysis/blob/main/QuickBite/Rating%20%26%20Sentiment%20View.png)
 
 ---
 
